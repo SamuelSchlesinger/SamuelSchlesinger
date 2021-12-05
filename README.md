@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently working on learning Rust and learning about consensus algorithms.
-- Previously, I worked in Haskell and developed open source Haskell packages.
+- I love Haskell and maintain several open source packages.
 - I care deeply about making human lives better with software.
 
 <!--
