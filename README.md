@@ -1,5 +1,7 @@
 I'm Sam. I work on cryptography, computational complexity, and formal verification.
 
+I am an Area Maintainer of [CSLib](https://www.cslib.io/).
+
 I like understanding what computers can and cannot do, building useful tools, and making mathematical arguments precise enough for a machine to check.
 
 Here you'll find privacy protocols, complexity theory in Lean, terminal tools, and experiments that occasionally turn into games.
