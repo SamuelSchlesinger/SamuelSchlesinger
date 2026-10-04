@@ -1,6 +1,6 @@
 I'm Sam. I work on cryptography, computational complexity, and formal verification.
 
-I am an Area Maintainer of [CSLib](https://www.cslib.io/).
+I am an Area Maintainer of [CSLib](https://www.cslib.io/) in the cryptography, complexity theory, and learning theory areas.
 
 I like understanding what computers can and cannot do, building useful tools, and making mathematical arguments precise enough for a machine to check.
 
